@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/8710f1a3-710c-45e7-8704-4860f232c971)
 
 ## MANGO TESTNET AUTO BOT
-end of testnet : 14/Feb/2025
+## ⚠️ Testnet will be End on **14/Feb/2025**
+
 **Register** : [HERE](https://task.testnet.mangonetwork.io/?invite=Tgp5FW)
 
 - [Download Mango Wallet Extension](https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd)
@@ -16,7 +17,7 @@ end of testnet : 14/Feb/2025
 
 **LFG**
 
-## PREREQUISITE
+## Requirement tools
 
 - Git
 - Node JS (v22)
@@ -56,6 +57,20 @@ end of testnet : 14/Feb/2025
    ```
    npm run start
    ```
+
+![image](https://github.com/user-attachments/assets/22327646-5ef1-4edd-8f43-478f8a0612fb)
+
+# note : 
+**you can run on Screen ( if you run this option the bot will be start automatically every 24H )**
+**command for create and run on screen**
+* ```
+  screen -S mango_bot
+  ```
+  To run Auto TX
+   ```
+   npm run start
+   ```
+**or start without screen ( if you run this option you must run it manually everyday )**
 
 ## IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)
 DWYOR & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
