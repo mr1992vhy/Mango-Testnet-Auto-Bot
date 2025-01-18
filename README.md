@@ -49,7 +49,7 @@
    ```
    nano accounts/accounts.js
    ```
-4. Configure the bot config
+4. Configure the bot config ( if you don't Proxy, skip it )
     ```
    nano config/proxy_list.js
     ```
